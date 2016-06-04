@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Nevigation Drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/title_home</item>
+    </string-array>
+
+
+    <string name="title_home">"    HOME"</string>
+    <string name="title_messages">"    MESSAGES"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>
